@@ -1,5 +1,19 @@
 {
   "name": "iframebypass",
   "version": "1.0.0",
-  "main": "test.js"
+  "main": "test.js",
+  "description": "iframebypass",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaming4Life-YouTube/iframebypass.git"
+  },
+  "author": "DC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaming4Life-YouTube/iframebypass/issues"
+  },
+  "homepage": "https://github.com/Gaming4Life-YouTube/iframebypass#readme"
 }
