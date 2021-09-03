@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gaming4Life-YouTube/iframebypass/issues"
   },
-  "homepage": "https://github.com/Gaming4Life-YouTube/iframebypass#readme"
+  "homepage": "https://github.com/Gaming4Life-YouTube/iframebypass#readme",
+  "node_modules": {
+    
+  }
 }
