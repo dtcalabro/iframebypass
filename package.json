@@ -4,8 +4,8 @@
   "main": "test.js",
   "description": "iframebypass",
   "scripts": {
-    "test": "node test.js",
-    "start": "node test.js"
+    "test": "node server.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
